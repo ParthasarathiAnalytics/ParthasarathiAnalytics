@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Parthasarathi A - Data Science and Analytics Professional">
+<img src="./Data Science & Analytics Journey.png" width="100%" alt="Parthasarathi A - Data Science and Analytics Professional">
 
 <br><br>
 
