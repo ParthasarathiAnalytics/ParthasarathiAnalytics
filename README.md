@@ -323,7 +323,7 @@ Machine Learning
 
 ### 📊 01 — Global Economy & Demography Analysis
 
-<img src="./projects/01-global-economy-demography.svg" width="100%" alt="Global Economy and Demography Analysis banner">
+<img src="./01-global-economy-demography.svg" width="100%" alt="Global Economy and Demography Analysis banner">
 
 **Technology:** SQL • Power BI • Excel
 
