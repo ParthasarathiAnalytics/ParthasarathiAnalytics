@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Data Science & Analytics Journey.png" width="100%" alt="Data Science and Analytics Journey - profile banner">
+<img src="./Data Science Analytics Portfolio Banner.png" width="100%" alt="Data Science and Analytics Journey - profile banner">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:38BDF8,100:22C55E&height=6&animation=fadeIn" width="100%" alt="animated divider">
 
