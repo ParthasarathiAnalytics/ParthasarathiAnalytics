@@ -339,7 +339,7 @@ Analysed economic and demographic data to identify trends, relationships, patter
 
 ### ☕ 02 — Coffee Data Analysis
 
-<img src="./projects/02-coffee-data-analysis.svg" width="100%" alt="Coffee Data Analysis banner">
+<img src="./02-coffee-data-analysis.svg" width="100%" alt="Coffee Data Analysis banner">
 
 **Technology:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
@@ -355,7 +355,7 @@ Performed exploratory data analysis to understand distributions, relationships, 
 
 ### 🏏 03 — IPL Winner Prediction
 
-<img src="./projects/03-ipl-winner-prediction.svg" width="100%" alt="IPL Winner Prediction banner">
+<img src="./03-ipl-winner-prediction.svg" width="100%" alt="IPL Winner Prediction banner">
 
 **Technology:** Python • Pandas • Scikit-learn • Machine Learning
 
@@ -370,7 +370,7 @@ Machine learning project focused on analysing IPL data and developing a predicti
 
 ### 💼 04 — Global Salary Survey Analysis
 
-<img src="./projects/04-global-salary-survey.svg" width="100%" alt="Global Salary Survey Analysis banner">
+<img src="./04-global-salary-survey.svg" width="100%" alt="Global Salary Survey Analysis banner">
 
 **Technology:** Excel • SQL • Data Analytics
 
@@ -385,7 +385,7 @@ Analysed salary survey data to identify patterns and trends across different cat
 
 ### 🛒 05 — Superstore Sales Analysis
 
-<img src="./projects/05-superstore-sales-analysis.svg" width="100%" alt="Superstore Sales Analysis banner">
+<img src="./05-superstore-sales-analysis.svg" width="100%" alt="Superstore Sales Analysis banner">
 
 **Technology:** Excel • Data Analytics
 
